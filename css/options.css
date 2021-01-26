@@ -1,0 +1,41 @@
+body {
+  background-color: #fbf7f5;
+  font-family: Verdana, sans-serif;
+}
+
+#audio_controller {
+  border-radius: 500px;
+  width: 600px;
+}
+
+#audio_container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#back {
+  color: #f9f9f9;
+  background-color: #fdc1c1;
+  padding: 25px;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 25px;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 1000;
+  width: 250px;
+}
+
+#button_container {
+  text-align: center;
+  margin-top: 75px;
+}
+
+#image_container {
+  text-align: center;
+}
+
+#container {
+  transform: translateY(25%);
+}
